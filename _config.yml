@@ -1,13 +1,13 @@
 # Site settings
 title: Kelly Gola, PhD
-description: Data Science, Behavioral Research
+description: Data Science, Behavioral Neuroscience
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Kelly Gola, PhD
 user_description: Understanding human behavior through data
-user_title: Data Science, Research Science 
+user_title: Data Science, Behavioral Neuroscience
 email: kagola7@gmail.com
 twitter_username: Kell_Belle77
 github_username:  kgola
